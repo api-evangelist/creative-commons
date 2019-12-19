@@ -1,0 +1,79 @@
+{
+    "name": "Creative Commons",
+    "description": "Creative Commons is a nonprofit organization at the center of a high-profile, international movement to promote sharing of creativity and knowledge. Our goal is to help realize the full potential of the Internet\u2014universal access to research and educati...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3506-creative-commons.jpg",
+    "tags": [
+        "api tools",
+        "copyright",
+        "have api",
+        "legal",
+        "licensing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/creative-commons\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Creative Commons",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3506-creative-commons.jpg",
+            "humanURL": "https:\/\/creativecommons.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/creative-commons-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/creative-commons-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/creativecommons.org\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/creativecommons.org\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/creative-commons"
+        },
+        {
+            "type": "Email",
+            "url": "info@creativecommons.org"
+        },
+        {
+            "type": "Email",
+            "url": "audit@creativecommons.org"
+        },
+        {
+            "type": "Email",
+            "url": "legal@creativecommons.org"
+        },
+        {
+            "type": "Email",
+            "url": "network@creativecommons.org"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/creativecommons"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/creativecommons"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/creativecommons.org\/"
+        }
+    ]
+}
